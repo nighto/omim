@@ -18425,6 +18425,7 @@
     sk = Zmazať záložku
     es = Eliminar marcador
     pl = Usuń zakładkę
+    pt-BR = Apagar Bookmark
     nl = Bladwijzer verwijderen
 
   [editor_edits_sent_message]
@@ -18452,6 +18453,7 @@
     sk = Vykonali sa vami odporúčané zmeny
     es = Se han enviado sus cambios sugeridos
     pl = Twoje sugestie zostały wysłane
+    pt-BR = Suas sugestões de mudanças foram enviadas
     nl = Uw voorgestelde wijzigingen zijn verzonden
 
   [editor_comment_hint]
@@ -18478,6 +18480,7 @@
     sk = Poznámka…
     es = Comentario…
     pl = Komentarz…
+    pt-BR = Comentar...
     nl = Reactie…
 
   [editor_reset_edits_message]
@@ -18505,6 +18508,7 @@
     sk = Resetovať všetky miestne časy?
     es = ¿Restablecer todos los cambios locales?
     pl = Skasować wszystkie lokalne zmiany?
+    pt-BR = Reinicializar todas as modificações locais?
     nl = Alle lokale wijzigingen herstellen?
 
   [editor_reset_edits_button]
@@ -18532,6 +18536,7 @@
     sk = Resetovať
     es = Restablecer
     pl = Skasuj
+    pt-BR = Reinicializar
     nl = Herstellen
 
   [editor_remove_place_message]
@@ -18559,6 +18564,7 @@
     sk = Odstrániť pridané miesto?
     es = ¿Eliminar el lugar añadido?
     pl = Usunąć dodane miejsce?
+    pt-BR = Remover um local adicionado?
     nl = Een toegevoegde locatie verwijderen?
 
   [editor_remove_place_button]
@@ -18586,6 +18592,7 @@
     sk = Odstrániť
     es = Eliminar
     pl = Usuń
+    pt-BR = Remover
     nl = Verwijderen
 
   [editor_status_sending]
@@ -18613,6 +18620,7 @@
     sk = Odosiela sa…
     es = Enviando…
     pl = Wysyłanie…
+    pt-BR= Enviando...
     nl = Verzenden…
 
   [editor_place_doesnt_exist]
@@ -18640,4 +18648,5 @@
     sk = Miesto neexistuje
     es = El lugar no existe
     pl = Takie miejsce nie istnieje
+    pt-BR = O lugar não existe
     nl = Locatie bestaat niet
