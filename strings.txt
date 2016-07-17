@@ -8609,7 +8609,7 @@
     zh-hans = 应用程序菜单
     pl = Menu aplikacji
     pt = Menu de Aplicação
-    pt-BR = Menu de Aplicação
+    pt-BR = Menu de aplicação
     hu = Menü
     th = เมนูของแอปพลิเคชัน
     ar = قائمة التطبيق
@@ -8648,7 +8648,7 @@
     sk = Pomocou Google Play služieb získajte svoju aktuálnu polohu
     cs = Používat služby Google Play pro získání aktuální polohy
     pt = Use o Google Play Serviços para determinar a sua localização actual
-    pt-BR = Use o Google Play Serviços para determinar a sua localização actual
+    pt-BR = Use o Google Play Serviços para determinar a sua localização atual
     sv = Använd Google Play Services för att bestämma din aktuella position
     id = Gunakan Layanan Google Play untuk mendapatkan lokasi Anda saat ini
     vi = Sử dụng Dịch vụ Google Play để có được vị trí hiện tại của bạn
@@ -8737,7 +8737,7 @@
     sv = Gillar du MAPS.ME?
     sk = Páči sa vám MAPS.ME?
     pt = Você gosta de MAPS.ME?
-    pt-BR = Você gosta de MAPS.ME?
+    pt-BR = Você gosta do MAPS.ME?
     ro = Îți place MAPS.ME?
     pl = Lubisz MAPS.ME?
     ko = MAPS.ME를 좋아하나요?
@@ -9213,7 +9213,7 @@
     sv = Du kommer ladda ner %@ MB med mobildata (i roamingläge). Detta kan resultera i extra kostnader beroende på din operatörs mobildataplan.
     sk = Veľkosť súboru je %@ MB, ktoré stiahnete prostredníctvom Mobilných Dát (v Roamingu). Toto môže mať za následok dodatočné poplatky, v závislosti od dátových taríf vášho mobilného operátora.
     pt = Você fará o download de %@ MB através de Dados Móveis (em Roaming). Isto poderá resultar em cobranças adicionais, dependendo do seu plano de dados móveis.
-    pt-BR = Você fará o download de %@ MB através de Dados Móveis (em Roaming). Isto poderá resultar em cobranças adicionais, dependendo do seu plano de 
+    pt-BR = Você fará o download de %@ MB através de Dados Móveis (em Roaming). Isto poderá resultar em cobranças adicionais, dependendo do seu plano de celular.
     ro = Urmează să descărcați %@ MB folosind abonamentul de date pentru mobil (în roaming). Acest lucru poate genera costuri suplimentare, în funcție de abonamentul dvs. de date, activat de operatorul de telefonie mobilă.
     pl = %@ MB do pobrania przy wykorzystaniu danych mobilnych (w roamingu). Może to oznaczać dodatkowe opłaty w zależności od planu danych mobilnych Twojego dostawcy usług.
     ko = 모바일 데이터(로밍시)를 사용하여 2840MB를 다운로드할 것입니다. 이는 운영자 모바일 데이터 계획에 따라 추가 요금이 발생할 수 있습니다.
@@ -9321,7 +9321,7 @@
     zh-Hant = 請啟用定位服務
     pl = Proszę włączyć usługi lokalizacji
     pt = Por favor active os Serviços de Localização
-    pt-BR = Por favor active os Serviços de Localização
+    pt-BR = Por favor, ative os Serviços de Localização
     hu = Kérjük kapcsolja be a helyzetmeghatározó szolgáltatást
     th = โปรดเปิดการใช้งานการบริการตำแหน่งที่ตั้ง
     zh-Hans = 请启用位置服务
@@ -9546,7 +9546,7 @@
     zh-Hant = 下載失敗
     pl = pobieranie nie powiodło się
     pt = descarga falhou
-    pt-BR = descarga falhou
+    pt-BR = download falhou
     hu = letöltése sikertelen
     th = การดาวน์โหลด  ล้มเหลว
     zh-Hans = 下载失败
