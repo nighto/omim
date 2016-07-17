@@ -16126,7 +16126,7 @@
     th = คุณจะไม่หลงทางอีกต่อไป
     uk = Ви ніколи не загубитеся знову
     pt = Nunca mais voltará a perder-se
-    pt-BR = Nunca mais voltará a perder-se
+    pt-BR = Você nunca mais ficará perdido outra vez
     es = Nunca volverás a perderte
     ro = Niciodată nu vă veți rătăci din nou
     pl = Nigdy się już nie zgubisz
@@ -16157,7 +16157,7 @@
     th = วางแผนเส้นทางรถยนต์และเส้นทางเดินที่เหมาะสมที่สุด แม้ว่าจะไม่มีการเชื่อมต่ออินเทอร์เน็ต!
     uk = Плануйте оптимальні маршрути для поїздок і піших походів навіть без Інтернет з'єднання!
     pt = Planeie itinerários ideais de automóvel e a pé, mesmo se não houver ligação à Internet!
-    pt-BR = Planeie itinerários ideais de automóvel e a pé, mesmo se não houver ligação à Internet!
+    pt-BR = Planeje itinerários ideais de automóvel e a pé, mesmo se não houver ligação à Internet!
     es = Planifica rutas óptimas en coche y a pie, ¡incluso si no hay conexión a Internet!
     ro = Planificați traseele optime cu mașina și cele pietonale, chiar dacă nu există conexiune la Internet!
     pl = Planuj optymalne trasy samochodowe i piesze, nawet gdy nie masz połączenia z Internetem!
@@ -16188,7 +16188,7 @@
     th = การนำทางออฟไลน์
     uk = Офлайн навігація
     pt = Navegação offline
-    pt-BR = Navegação offline
+    pt-BR = Navegação sem conexão
     es = Navegación fuera de línea
     ro = Navigare offline
     pl = Nawigacja offline
@@ -16219,7 +16219,7 @@
     th = วางแผนเส้นทางรถยนต์และเส้นทางเดินที่เหมาะสมที่สุด
     uk = Плануйте оптимальні маршрути для поїздок і піших походів.
     pt = Planeie itinerários ideais de automóvel e a pé.
-    pt-BR = Planeie itinerários ideais de automóvel e a pé.
+    pt-BR = Planeje itinerários ideais de automóvel e a pé.
     es = Planifica rutas óptimas en coche y a pie.
     ro = Planificați traseele optime cu mașina și cele pietonale.
     pl = Planuj optymalne trasy samochodowe i piesze.
@@ -16405,7 +16405,7 @@
     th = เพื่อใช้การนำทางและฟีเจอร์อื่น ๆ เราต้องการเข้าถึงตำแหน่งทางภูมิศาสตร์ของคุณ
     uk = Щоб користуватися навігацією та іншими функціями додатку, нам необхідний доступ до вашого місцезнаходження.
     pt = Para utilizar a navegação e outros recursos, precisamos de aceder à sua localização geográfica.
-    pt-BR = Para utilizar a navegação e outros recursos, precisamos de aceder à sua localização geográfica.
+    pt-BR = Para utilizar a navegação e outros recursos, precisamos de acesso à sua localização geográfica.
     es = Para utilizar la navegación y otras funciones, necesitamos acceso a tu geolocalización.
     ro = Ca să puteți naviga și folosi alte funcții, trebuie să accesăm poziționarea dvs. geografică.
     pl = Abyś mógł korzystać z nawigacji i innych funkcji, musimy uzyskać dostęp do twojej geolokalizacji.
@@ -16616,7 +16616,7 @@
     th = เราจะส่งความคิดเห็นของคุณไปให้กับนักเขียนแผนที่
     uk = Ми обов'язково відправимо ваш коментар картографам.
     pt = Encaminharemos o seu comentário aos cartógrafos.
-    pt-BR = Encaminharemos o seu comentário aos cartógrafos.
+    pt-BR = Encaminharemos o seu comentário aos editores do mapa.
     es = Enviaremos tus comentarios a los cartógrafos.
     ro = Vom trimite comentariul dumneavoastră cartografilor.
     pl = Prześlemy Twoje komentarze kartografom.
@@ -16741,7 +16741,7 @@
     pl = Może to być kosztowne przy niektórych planach taryfowych lub w roamingu.
     nl = Met sommige abonnementen of bij roaming kan dit behoorlijk duur zijn.
     pt = Isto pode ser significativamente caro, com alguns planos ou se roaming.
-    pt-BR = Isto pode ser significativamente caro, com alguns planos ou se roaming.
+    pt-BR = Isto pode ser significativamente caro com alguns planos ou se estiver em roaming.
 
   [error_enter_correct_house_number]
     en = Enter correct house number
@@ -16771,7 +16771,7 @@
     pl = Wprowadź poprawny numer domu
     nl = Een juist huisnummer invoeren
     pt = Introduzir um número de casa correto
-    pt-BR = Introduzir um número de casa correto
+    pt-BR = Informe o número correto da casa
 
   [editor_storey_number]
     tags = ios, android
@@ -16799,6 +16799,7 @@
     sk = Počet poschodí (max %d)
     es = Número de plantas (máx. %d)
     pl = Liczba pięter (maks. %d)
+    pt-BR = Número de andares (máx. %d)
     nl = Aantal verdiepingen (max. %d)
 
   [error_enter_correct_storey_number]
@@ -16827,6 +16828,7 @@
     sk = Upraviť s maximálne 25 poschodiami
     es = Edite el edificio con un máximo de 25 plantas
     pl = Edytuj budynek z maksymalną liczbą 25 pięter
+    pt-BR = Somente edifícios até 25 andares podem ser editados
     nl = Bewerk het gebouw met maximaal 25 verdiepingen
 
   [editor_zip_code]
@@ -16855,6 +16857,7 @@
     sk = PSČ
     es = Código postal
     pl = Kod pocztowy
+    pt-BR = CEP
     nl = Postcode
 
   [error_enter_correct_zip_code]
@@ -16883,6 +16886,7 @@
     sk = Zadajte správne PSČ
     es = Introduzca el código postal correcto
     pl = Podaj prawidłowy kod pocztowy
+    pt-BR = Informe o CEP correto
     nl = Voer de juiste postcode in
 
   [placepage_unknown_place]
@@ -16912,6 +16916,7 @@
     sk = Neznáme miesto
     es = Lugar desconocido
     pl = Nieznane miejsce
+    pt-BR = Local desconhecido
     nl = Onbekende locatie
 
   [editor_other_info]
@@ -16940,6 +16945,7 @@
     sk = Dodatočné informácie
     es = Información adicional
     pl = Dodatkowe informacje
+    pt-BR = Informação adicional
     nl = Aanvullende info
 
   [editor_detailed_description_hint]
@@ -16968,6 +16974,7 @@
     sk = Zmazaná poznámka
     es = Comentario detallado
     pl = Szczegółowy komentarz
+    pt-BR = Comentário detalhado
     nl = Gedetailleerde reactie
 
   [editor_detailed_description]
@@ -16996,6 +17003,7 @@
     sk = Vami navrhované zmeny sa odošlú do komunity OpenStreetMap. Popíšte detaily, ktoré sa nedajú upraviť v MAPS.ME.
     es = Los cambios que ha sugerido se enviarán a la comunidad de OpenStreetMap. Describa los detalles que no pueden editarse en MAPS.ME.
     pl = Twoje sugestie zmian zostaną wysłane do społeczności OpenStreetMap. Opisz szczegóły, których nie można edytować w MAPS.ME.
+    pt-BR = Suas sugestões de mudança serão enviadas para a comunidade OpenStreetMap. Descreva em detalhes o que não pode ser editado com o MAPS.ME.
     nl = Uw voorgestelde wijzigingen worden verzonden naar de OpenStreetMap-community. Beschrijf de details die niet kunnen worden bewerkt in MAPS.ME.
 
   [editor_more_about_osm]
@@ -18499,7 +18507,7 @@
     sk = Vykonali sa vami odporúčané zmeny
     es = Se han enviado sus cambios sugeridos
     pl = Twoje sugestie zostały wysłane
-    pt-BR = Suas sugestões de mudanças foram enviadas
+    pt-BR = Suas sugestões de mudança foram enviadas
     nl = Uw voorgestelde wijzigingen zijn verzonden
 
   [editor_comment_hint]
