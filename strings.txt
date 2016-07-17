@@ -15012,7 +15012,7 @@
     th = ในการสร้างเส้นทาง คุณต้องอัปเดตแผนที่ทั้งหมดแล้ววางแผนเส้นทางอีกครั้ง
     uk = Для побудови маршруту необхідно оновити усі мапи та побудувати маршрут заново.
     pt = Para criar um itinerário, é necessário atualizar todos os mapas e, em seguida, voltar a planear o itinerário.
-    pt-BR = Para criar um itinerário, é necessário atualizar todos os mapas e, em seguida, voltar a planear o itinerário.
+    pt-BR = Para criar um itinerário é necessário atualizar todos os mapas e, em seguida, voltar a planejar o itinerário.
     es = Los mapas empiezan a descargarse automáticamente cuando te aproximas al mapa.
     ro = Pentru a crea un traseu, trebuie să actualizați toate hărțile, iar apoi să planificați traseul încă o dată.
     pl = Aby utworzyć trasę, należy zaktualizować wszystkie mapy, a następnie ponownie zaplanować trasę.
@@ -15353,7 +15353,7 @@
     th = ชื่อผู้ใช้ไม่ถูกต้อง
     uk = Ім'я користувача є недійсним
     pt = O nome de utilizador é inválido
-    pt-BR = O nome de utilizador é inválido
+    pt-BR = O nome de usuário é inválido
     es = Usuario no válido
     ro = Nume de utilizator nevalid
     pl = Nieprawidłowa nazwa użytkownika
@@ -15415,7 +15415,7 @@
     th = ล็อกอินด้วย OpenStreetMap
     uk = Увійти через OpenStreetMap
     pt = Iniciar sessão com a OpenStreetMap
-    pt-BR = Iniciar sessão com a OpenStreetMap
+    pt-BR = Iniciar sessão no OpenStreetMap
     es = Iniciar sesión con OpenStreetMap
     ro = Conectați-vă cu OpenStreetMap
     pl = Zaloguj się z OpenStreetMap
