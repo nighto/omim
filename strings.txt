@@ -10174,7 +10174,7 @@
     pl = — Prosimy zachować ostrożność na trasach w strefie nadgranicznej: wyznaczone przez naszą aplikację trasy mogą przecinać granice państw w niedozwolonych do przekroczenia miejscach;
     nl = — Wees voorzichtig met de routes in de grenszones: de routes die door onze app gecreëerd zijn, gaan wellicht door landgrenzen in ongeautoriseerde plaatsen;
     pt = — Use de cautela em rotas de zonas fronteiriças: as rotas criadas por nosso aplicativo podem algumas vezes cruzar fronteiras nacionais em locais não autorizados;
-    pt-BR = — Use de cautela em rotas de zonas fronteiriças: as rotas criadas por nosso aplicativo podem algumas vezes cruzar fronteiras nacionais em 
+    pt-BR = — Use de cautela em rotas de zonas fronteiriças: as rotas criadas por nosso aplicativo podem algumas vezes cruzar fronteiras nacionais em locais não autorizados.
 
   [dialog_routing_disclaimer_beware]
     tags = ios,android
@@ -10878,7 +10878,7 @@
     pl = Spróbuj ponownie
     nl = Probeer het opnieuw
     pt = Tente novamente
-    pt-BR = Tente novamente
+    pt-BR = Por favor, tente novamente
 
   [dialog_routing_send_error]
     tags = ios,android
@@ -10910,7 +10910,7 @@
     pl = Zgłoś problem
     nl = Meld het probleem
     pt = Relatar o Problema
-    pt-BR = Relatar o Problema
+    pt-BR = Relatar o problema
 
   [dialog_routing_if_get_cross_route]
     tags = ios,android
@@ -11038,7 +11038,7 @@
     pl = Nie teraz
     nl = Niet nu
     pt = Agora Não
-    pt-BR = Agora Não
+    pt-BR = Agora não
 
   [dialog_routing_build_route]
     tags = ios,android
@@ -11424,7 +11424,7 @@
     pl = Planowanie trasy nieudane
     nl = Routeberekening mislukt
     pt = Falhou o Planeamento da Rota
-    pt-BR = Falhou o Planeamento da Rota
+    pt-BR = Falha no planejamento da rota
 
   [routing_arrive]
     tags = ios,android
@@ -11984,7 +11984,7 @@
     pl = Uzyskaj szybki dostęp do ostatniego hasła wyszukiwania.
     nl = Snel toegang tot recente zoekopdrachten.
     pt = Acesse os termos de busca recentes rapidamente.
-    pt-BR = Acesse os termos de busca recentes rapidamente.
+    pt-BR = Acesse os termos de busca recentes.
 
   [clear_search]
     tags = ios, android
@@ -12055,6 +12055,7 @@
     en = Plan your trip
     ru = Подготовься к путешествию
     es = Planifica tu viaje
+    pt-BR = Planeje sua viagem
 
   [showcase_more_apps]
     tags = ios, android
@@ -12092,6 +12093,7 @@
     comment = Place Page link to Wikipedia article (if map object has it).
     en = Wikipedia
 	zh-Hant = 維基百科
+    pt-BR = Wikipedia	
 
   [p2p_route_planning]
     tags = ios, android
@@ -12463,7 +12465,7 @@
     pl = Dodaj harmonogram
     nl = Schema toevoegen
     pt = Adicionar Horário
-    pt-BR = Adicionar Horário
+    pt-BR = Adicionar horário
 
   [editor_time_delete]
     tags = ios, android
@@ -12774,7 +12776,7 @@
     pl = Przykładowe wartości
     nl = Voorbeeldwaarden
     pt = Valores do Exemplo
-    pt-BR = Valores do Exemplo
+    pt-BR = Valores do exemplo
 
   [editor_correct_mistake]
     tags = ios, android
