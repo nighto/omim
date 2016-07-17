@@ -13008,7 +13008,7 @@
     th = กรุณาอธิบายปัญหาโดยละเอียดเพื่อที่ชุมชน OpenStreeMap จะสามารถแก้ไขข้อผิดพลาดได้
     uk = Будь-ласка, напишіть детально про проблему, щоб суспільство OpenStreetMap виправило помилку.
     pt = Por favor, descreva o problema ao pormenor para que a comunidade OpenStreeMap possa corrigir o erro.
-    pt-BR = Por favor, descreva o problema ao pormenor para que a comunidade OpenStreeMap possa corrigir o erro.
+    pt-BR = Por favor, descreva o problema em detalhes para que a comunidade OpenStreeMap possa corrigir o erro.
     es = Por favor, describe el problema en detalle para que la comunidad de OpenStreeMap pueda corregir el error.
     ro = Vă rugăm să descrieți problema în detaliu , astfel încât comunitatea OpenStreeMap să poată remedia eroarea.
     pl = Prosimy o szczegółowe opisanie problemu, aby użytkownicy OpenStreetMap mogli naprawić błąd.
@@ -13038,7 +13038,7 @@
     th = หรือทำด้วยตัวคุณเองที่ http://www.openstreetmap.org/
     uk = Або зробіть це самостійно на сайті http://www.openstreetmap.org/
     pt = Ou faça-o sozinho em http://www.openstreetmap.org/
-    pt-BR = Ou faça-o sozinho em http://www.openstreetmap.org/
+    pt-BR = Ou faça-o você mesmo em http://www.openstreetmap.org/
     es = O hazlo tú mismo en http://www.openstreetmap.org/
     ro = Sau faceți-o pe http://www.openstreetmap.org/
     pl = Albo zrób to sam na http://www.openstreetmap.org/
@@ -13188,7 +13188,7 @@
     th = สถานที่ซ้ำ
     uk = Дубльовані місця
     pt = Lugar em duplicado
-    pt-BR = Lugar em duplicado
+    pt-BR = Lugar duplicado
     es = Lugar duplicado
     ro = Locație dublată
     pl = Powielone miejsce
@@ -13602,7 +13602,7 @@
     pl = Od wschodu do zachodu słońca
     nl = Van zonsopgang tot zonsondergang
     pt = Do amanhecer ao anoitecer
-    pt-BR = Do amanhecer ao anoitecer
+    pt-BR = Do amanhecer ao pôr do sol
 
   [sunset_to_sunrise]
     tags = ios, android
@@ -14481,6 +14481,7 @@
     comment = small button to open list with names in different languages
     en = Show More
     de = Mehr anzeigen
+    pt-BR = Mostrar
     ru = Показать больше
     zh-Hant = 顯示更多
 
@@ -14489,6 +14490,7 @@
     comment = small button to close list with names in different languages
     en = Show Less
     de = Weniger anzeigen
+    pt-BR = Mostrar menos
     ru = Показать меньше
     zh-Hant = 顯示較少
 
@@ -14919,7 +14921,7 @@
     th = ไม่มีการเชื่อมต่อ WiFi คุณต้องการดำเนินการต่อโดยใช้ข้อมูลมือถือหรือไม่?
     uk = Немає WiFi з’єднання. Ви бажаєте продовжити роботу через мобільний інтернет?
     pt = Nenhuma ligação Wi-Fi. Deseja continuar com os dados móveis?
-    pt-BR = Nenhuma ligação Wi-Fi. Deseja continuar com os dados móveis?
+    pt-BR = Nenhuma conexão Wi-Fi. Deseja continuar com os dados móveis?
     es = No hay conexión Wi-Fi. ¿Quieres continuar con los datos móviles?
     ro = Nu există conexiune WiFi. Doriți să continuați cu conexiunea de pe mobil?
     pl = Brak połączenia Wi-Fi. Czy chcesz kontynuować z użyciem danych pakietowych?
