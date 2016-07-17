@@ -17024,6 +17024,7 @@
     sk = Viac o OpenStreetMap
     es = Más acerca de OpenStreetMap
     pl = Więcej o OpenStreetMap
+    pt-BR = Mais sobre OpenStreetMap
     nl = Meer over OpenStreetMap
 
   [editor_operator]
@@ -17051,6 +17052,7 @@
     sk = Prevádzkovateľ
     es = Operador
     pl = Operator
+    pt-BR = Operador
     nl = Uitvoerder
 
   [editor_tag_description]
@@ -17078,6 +17080,7 @@
     sk = Zadajte spoločnosť, organizáciu alebo osobu zodpovednú za prevádzku.
     es = Introduzca la empresa, organización o individuo responsable de las instalaciones.
     pl = Wprowadź nazwę firmy, organizacji lub osoby odpowiedzialnej za obiekty.
+    pt-BR = Informe a companhia, a orgainização ou o indivíduo responsável pelas instalações.
     nl = Voer het bedrijf, de organisatie of het individu in dat verantwoordelijk is voor de faciliteiten.
 
   [editor_no_local_edits_title]
@@ -17105,6 +17108,7 @@
     sk = Nemáte miestne poznámky
     es = No tiene ediciones locales
     pl = Nie masz lokalnych edycji
+    pt-BR = Você não tem edições locais
     nl = U hebt geen lokale bewerkingen
 
   [editor_no_local_edits_description]
@@ -17132,6 +17136,7 @@
     sk = Tu sa zobrazuje počet navrhovaných zmien na mape momentálne dostupných len vo vašom zariadení.
     es = Esto muestra el número de sus cambios sugeridos en el mapa que actualmente solo son accesibles desde su dispositivo.
     pl = Jest to liczba sugerowanych przez ciebie zmian na mapie, które aktualnie dostępne są tylko na twoim urządzeniu.
+    pt-BR = Isto mostra o número de mudanças no mapa sugeridas por você que atualmente estão disponíveis apenas no seu dispositivo. 
     nl = Dit toont het aantal voorgestelde wijzigingen voor de kaart die momenteel alleen toegankelijk zijn op uw apparaat.
 
   [editor_international_names_subtitle]
@@ -17159,6 +17164,7 @@
     sk = Názov v iných jazykoch
     es = Nombre en otros idiomas
     pl = Nazwa w innych językach
+    pt-BR = Nome em outros idiomas
     nl = Naam in andere talen
 
   [editor_send_to_osm]
@@ -17186,6 +17192,7 @@
     sk = Odoslať do OSM
     es = Enviar a OSM
     pl = Wyślij do OSM
+    pt-BR = Enviar para o OSM
     nl = Naar OSM sturen
 
   [editor_remove]
@@ -17213,6 +17220,7 @@
     sk = Odstrániť
     es = Eliminar
     pl = Usuń
+    pt-BR = Remover
     nl = Verwijderen
 
   [downloader_my_maps_title]
@@ -17240,6 +17248,7 @@
     sk = Moje mapy
     es = Mis mapas
     pl = Moje mapy
+    pt-BR = Meus mapas
     nl = Mijn kaarten
 
   [downloader_no_downloaded_maps_title]
@@ -17267,6 +17276,7 @@
     sk = Neprevzali ste žiadne mapy
     es = No ha descargado ningún mapa
     pl = Nie pobrano żadnych map
+    pt-BR = Você não fez o download de qualquer mapa
     nl = U hebt geen kaarten gedownload
 
   [downloader_no_downloaded_maps_message]
@@ -17294,6 +17304,7 @@
     sk = Prevziať mapy na nájdenie pozície a navigovanie off-line.
     es = Descargue mapas para encontrar la ubicación y navegar sin conexión.
     pl = Aby znajdować miejsca i nawigować bez połączenia z internetem, musisz pobrać mapy.
+    pt-BR = Baixe mapas para pesquisar locais e usar a navegação sem conexão.
     nl = Download kaarten om de locatie te zoeken en offline te navigeren.
 
   [downloader_find_place_hint]
@@ -17321,6 +17332,7 @@
     sk = Hľadať mesto alebo krajinu
     es = Buscar ciudad o país
     pl = Szukaj miasta lub kraju
+    pt-BR = Pesquisar cidade ou país
     nl = Stad of land zoeken
 
   [current_location_unknown_title]
@@ -17349,6 +17361,7 @@
     sk = Pokračovať v mazaní vašej súčasnej pozície?
     es = ¿Continuar detectando su ubicación actual?
     pl = Kontynuować wykrywanie bieżącej lokalizacji?
+    pt-BR = Continuar procurando sua localização atual?
     nl = Doorgaan met het detecteren van uw huidige locatie?
 
   [current_location_unknown_message]
@@ -17377,6 +17390,7 @@
     sk = Súčasná pozícia je neznáma. Možno sa nachádzate v budove alebo v tuneli.
     es = La ubicación actual es desconocida. Quizá esté en un edificio o en un túnel.
     pl = Aktualna lokalizacja jest nieznana. Może znajdujesz się w budynku lub tunelu.
+    pt-BR = A localização atual é desconhecida. Talvez você esteja em um edifício ou túnel.
     nl = Huidige locatie is onbekend. Misschien bevindt u zich in een gebouw of tunnel.
 
   [current_location_unknown_continue_button]
@@ -17404,6 +17418,7 @@
     sk = Pokračovať
     es = Continuar
     pl = Kontynuuj
+    pt-BR = Continue
     nl = Doorgaan
 
   [current_location_unknown_stop_button]
@@ -17431,6 +17446,7 @@
     sk = Zastaviť
     es = Detener
     pl = Stop
+    pt-BR = Pare
     nl = Stoppen
 
   [current_location_unknown_error_title]
@@ -17457,6 +17473,7 @@
     sk = Súčasná pozícia je neznáma.
     es = La ubicación actual es desconocida.
     pl = Aktualna lokalizacja jest nieznana.
+    pt-BR = A localização atual é desconhecida.
     nl = Huidige locatie is onbekend.
 
   [current_location_unknown_error_message]
@@ -17484,6 +17501,7 @@
     sk = Počas vyhľadávania vašej pozície došlo k chybe. Skontrolujte, či zariadenie pracuje správne a skúste to znova.
     es = Se ha producido un error al buscar su ubicación. Compruebe que su dispositivo funciona correctamente e inténtelo más tarde.
     pl = Podczas szukania twojej lokalizacji wystąpił błąd. Sprawdź czy twoje urządzenie działa poprawnie i spróbuj ponownie później.
+    pt-BR = Ocorreu um erro enquanto procurava por sua localização. Verifique se o seu dispositivo está funcionando adequadamento e tente novamente depois.
     nl = Er is een fout opgetreden tijdens het zoeken naar uw locatie. Controleer of uw apparaat goed werkt en probeer het later opnieuw.
 
   [whatsnew_update_editor_title]
@@ -17511,6 +17529,7 @@
     sk = Aktualizovali sme program na úpravu máp
     es = Hemos actualizado el editor de mapas
     pl = Zaktualizowaliśmy edytor map
+    pt-BR = Nós atualizamos o editor de mapas
     nl = We hebben de kaarteditor bijgewerkt
 
   [whatsnew_update_editor_message]
@@ -17538,6 +17557,7 @@
     sk = Používatelia MAPS.ME urobili 50 000 zmien v mapách. Spoločne vytvárame najpodrobnejšie mapy na svete. Pridajte sa!
     es = Los usuarios de MAPS.ME han realizado 50 000 cambios de mapas. Juntos estamos creando los mapas más detallados del mundo. ¡Únase a nosotros!
     pl = Użytkownicy MAPS.ME dokonali 50 000 zmian w mapach. Wspólnie tworzymy najbardziej szczegółowe mapy na świecie. Przyłącz się do nas!
+    pt-BR = Usuários do MAPS.ME realizaram 50 000 alterações no mapa. Juntos nós estamos fazendo o mapa mais detalhado no Mundo. Junte-se a nós!
     nl = MAPS.ME-gebruikers hebben 50.000 kaartwijzigingen doorgevoerd. Samen maken we de meest gedetailleerde kaarten ter wereld. Doe met ons mee!
 
   [whatsnew_update_editor_message_update]
@@ -17866,7 +17886,7 @@
     sk = Garáž
     es = Cobertizos
     pl = Wiaty
-    pt-BR = Abrigo
+    pt-BR = Coberto
     nl = Afdak
 
   [placepage_parking_carports]
